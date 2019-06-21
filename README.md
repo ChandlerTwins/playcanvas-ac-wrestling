@@ -7,6 +7,8 @@ For our original code and comments, please see "wrestlerinput.js" and "wrestlerm
 
 All movement was done with kinetic force rather than transforms to make the walking fluid
 
+Character rotation is handled through spherical linear interpolation 
+
 All art assets and animations were also created by Jason and Justin Chandler
 
 
